@@ -1,0 +1,39 @@
+PrimaryMission() {
+digit a, b, h;
+digit area;
+unit choice=0;
+go {
+commence;
+post("Enter the value of the first base of the trapezium : ");
+capture(#a);
+post("Enter the value of the second base of the trapezium : ");
+capture(#b);
+post("Enter the value of the height of the trapezium : ");
+capture(#h);
+area = 0.5 *(a+b) *h;
+post("Area of the trapezium is: " + area);
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+a=0;
+b=0;
+h=0;
+area=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

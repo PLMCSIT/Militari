@@ -1,0 +1,48 @@
+PrimaryMission() {
+unit a,b,p=0,mod1,mod2;
+unit choice;
+go {
+commence;
+post("Enter first number : ");
+capture(#a);
+post("\nEnter second number : ");
+capture(#b);
+mod1 = a%2;
+inorder(mod1!=0) {
+p=p+b;
+}
+phase(a!=1) {
+a=a/2;
+b=b*2;
+mod2 = a%2;
+inorder(mod2!=0) {
+p=p+b;
+}
+}
+post("\nThe product of two numbers is : " + p);
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+a=0;
+b=0;
+p=0;
+mod1=0;
+mod2=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

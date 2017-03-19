@@ -1,0 +1,8 @@
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Release\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Release\Syntax Analyzer.pdb
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Release\grammatica-1.6.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Release\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Release\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Release\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Release\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Release\Syntax Analyzer.pdb

@@ -1,0 +1,259 @@
+prologue
+
+global word as @n[7]::
+global num as @direc[7], @boat = 1, @pssngr=0, @gmeover = 0, @dcsion::
+global num as @checker = 0::
+
+climax()
+[[
+
+@naming()::
+
+
+
+during ( reality)
+[[ 
+deliver<<"The Bridge Game\n\n"::
+
+deliver<<"Rules: \n"::
+deliver<<"1. The goal of the game is to place all 6 animals to the other side without \n being eaten\n2. If the Number of wolves is greater than the Number of sheeps in one side the wolves will eat the sheep. \n3. atleast 1 passenger is needed to sail. \n4. the boat can only have 2 passengers\n\n\n"::
+@disp():: 
+
+once(@checker == 1)
+[[ mark:: ]]
+
+during ( reality)
+[[
+deliver<<"\n\n[1]Board the ship or [2]Sail or [3]Unload the ship: "::
+requesti>>@dcsion::
+once (@dcsion >= 1 && @dcsion <= 3)
+[[ mark:: ]]
+deliver<<"\nWrong input!\n"::
+]]
+
+once (@dcsion == 1)
+[[ @brdshp():: ]]
+ifnotthen (@dcsion == 2)
+[[ @sail():: @c2ndch():: ]]
+ifnotthen (@dcsion == 3)
+[[ @unlod():: ]]
+
+during ( @gmeover == 1)
+[[
+
+deliver<<"Again? [1] Yes/ [2] No: "::
+requesti>>@an2 ::
+
+once (@an2 == 1)
+[[ @naming():: ]]
+ifnotthen (@an2 == 2)
+[[ @checker = 1:: @gmeover=0:: ]]
+deliver<<"Invalid input!\n"::
+]]
+
+
+
+
+wipe::
+
+]] 
+
+deliver<<"\n\nGoodBye"::
+request>>@sd::
+]]
+
+blank as @c2ndch()
+[[
+num as @i, @nw1=0, @nw2 =0, @ns1=0, @ns2=0::
+upto (@i = 1:: @i<= 3:: @i++)
+[[
+once (@direc[@i] == 1)
+[[ @nw1++:: ]]
+ifnot [[ @nw2++:: ]]
+]]
+upto (@i = 4:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 1)
+[[ @ns1++:: ]]
+ifnot [[ @ns2++:: ]]
+]]
+
+once (@nw1 > @ns1 && @ns1 != 0)
+[[ deliver<<"GAME OVER! The Sheeps on the north is eaten\n":: @gmeover = 1:: ]] 
+once (@nw2 > @ns2  && @ns2 != 0)
+[[ deliver<<"GAME OVER! The Sheeps on the south is eaten\n":: @gmeover = 1:: ]] 
+once (@nw2 == 3 && @ns2 == 3)
+[[ deliver<<"YOU WON!!! All the Sheeps and the Wolves got to the south safely\n":: @gmeover = 1:: ]] 
+
+request>>@d::
+]]
+
+blank as @brdshp()
+[[
+num as @no=0::
+once(@pssngr == 2)
+[[ deliver<<"cant load more!":: request>>@dd:: ]]
+ifnot 
+[[
+during ( reality)
+[[
+deliver<<"which one? : "::
+request>>@no::
+once (@no >= 1 && @no <= 6)
+[[
+once (@direc[@no] == @boat)
+[[ mark:: ]] 
+]]
+deliver<<"cant board the boat\n"::
+]]
+@pssngr++::
+@direc[@no] = 3::
+ ]]
+
+]]
+
+blank as @sail()
+[[
+once (@pssngr == 0)
+[[
+deliver<<"atleast 1 passenger needed!\n"::
+]] 
+ifnot 
+[[
+num as @i::
+once (@boat == 1)
+[[ @boat = 2:: ]]
+ifnotthen (@boat == 2)
+[[ @boat = 1:: ]]
+deliver<<"\n\n"::
+@disp()::
+upto (@i = 1:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 3)
+[[
+once (@boat == 1)
+[[ @direc[@i] = 1:: ]]
+ifnotthen (@boat == 2)
+[[ @direc[@i] = 2:: ]]
+]]
+]]
+deliver<<"\n\n"::
+@disp()::
+deliver<<"\n\n"::
+
+
+]]
+@pssngr = 0:: 
+
+]]
+
+blank as @unlod()
+[[
+num as @no=0::
+once(@pssngr == 0)
+[[ deliver<<"cant unload any!":: request>>@dd:: ]]
+ifnot 
+[[
+during ( reality)
+[[
+deliver<<"which one? : "::
+request>>@no::
+once (@no >= 1 && @no <= 6 )
+[[
+once (@direc[@no] == 3)
+[[ mark:: ]] 
+]]
+deliver<<"cant unload that one from the boat\n"::
+]]
+@pssngr++::
+once (@boat == 1)
+[[ @direc[@no] = 1:: ]]
+ifnotthen (@boat == 2)
+[[ @direc[@no] = 2:: ]]
+ ]]
+
+
+
+]]
+
+blank as @disp()
+[[
+num as @dum, @i::
+upto (@i = 1:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 1)
+[[
+deliver<<"  ["<<@i<<"]"<<@n[@i]::
+]]
+]]
+deliver<<"\n================================================================="::
+
+once (@boat == 1)
+[[
+deliver<<"\n                                  _<|_"::
+deliver<<"\n                                  \\__/ "::
+upto (@i = 1:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 3)
+[[
+deliver<<"  ["<<@i<<"]"<<@n[@i]::
+]]
+]]
+
+deliver<<"\n"::
+
+deliver<<"\n\n\n\n\n"::
+]]
+ifnot 
+[[
+deliver<<"\n\n\n\n\n"::
+deliver<<"\n                                  _<|_"::
+deliver<<"\n                                  \\__/ "::
+upto (@i = 1:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 3)
+[[
+deliver<<"  ["<<@i<<"]"<<@n[@i]::
+]]
+]]
+
+deliver<<"\n"::
+]]
+deliver<<"=================================================================\n"::
+
+upto (@i = 1:: @i<= 6:: @i++)
+[[
+once (@direc[@i] == 2)
+[[
+deliver<<"  ["<<@i<<"]"<<@n[@i]::
+]]
+]]
+
+
+
+
+]]
+
+
+blank as @naming()
+[[
+@n[1] = "Wolf1"::
+@n[2] = "Wolf2"::
+@n[3] = "Wolf3"::
+@n[4] = "Sheep1"::
+@n[5] = "Sheep2"::
+@n[6] = "Sheep3"::
+@direc[1] = 1::
+@direc[2] = 1::
+@direc[3] = 1::
+@direc[4] = 1::
+@direc[5] = 1::
+@direc[6] = 1::
+@boat = 1::
+@pssngr = 0::
+@gmeover = 0::
+]]
+
+
+
+epilogue

@@ -1,0 +1,203 @@
+digit sum=0;
+unit numerator[100];
+unit denominator[100];
+unit arr[20];
+unit newnum[100];
+unit newdenom[100];
+
+miss display() {
+commence;
+post(" \n\t\t\t [1] Fibonacci \t\t [2] Multiplication Table");
+post(" \n\t\t\t [3] Tailor Series \t [4] LCD");
+post(" \n\t\t\t [5] LCM \t\t [0] Exit");
+post("\n\t\t\tEnter Choice: ");
+}
+
+miss fibo() {
+unit n, fir=0, sec=1, third=0, i;
+post("Enter number of Series: ");
+capture(#n);
+phase(n<=0) {
+post("Enter a positive series: ");
+capture(#n);
+} 
+post("First  " +  n + " Fibonacci series: \n");
+inorder(n==1) {
+post(fir);
+}
+otherorder(n==2) {
+post(fir);
+post(sec);
+}
+order {
+post(fir);
+post(sec);
+inquire(i=3;i<=n;i++) {
+third = fir + sec;
+post(" " + third);
+fir = sec;
+sec = third;
+}
+}
+}
+
+miss LCD() {
+unit m, j, val=1;
+post("How many Fraction/s?: \n");
+capture(#m);
+
+phase(m<=0) {
+post("Please Enter a POSITIVE NUMBER!: \n");
+capture(#m);
+}
+inquire(j=1;j<=m;j++) {
+
+post("Enter Numerator: \n");
+capture(#numerator[j]);
+post("Enter denominator: \n");
+capture(#denominator[j]);
+
+phase(denominator[j] <= 0) {
+post("Please Enter a POSITIVE NUMBER!: \n");
+capture(#denominator[j]);
+}
+}
+post("The Given fractions are: \n");
+inquire(j=1;j<=m;j++) {
+post(numerator[j] + "/" + denominator[j]);
+}
+inquire(j=1;j<=m;j++) {
+val= LCM2(val, denominator[j]);
+}
+post("\nLCD : " + val);
+inquire(j=1;j<=m;j++) {
+newdenom[j] = val / denominator[j];
+newnum[j] = newdenom[j] * numerator[j];
+}
+inquire(j=1;j<=m;j++) {
+post("\nThe new set of Fractions are: " + newnum[j] + "/" + val);
+}
+}
+
+miss lcm() {
+unit cnt, lmt, val2=1;
+post("\nHow Many Series of Numbers?: ");
+capture(#lmt);
+inquire(cnt=0;cnt<lmt;cnt++) {
+post("\nEnter Number [" + cnt + "]: ");
+capture(#arr[cnt]);
+}
+inquire(cnt=0;cnt<lmt;cnt++) {
+val2= LCM2(val2, arr[cnt]);
+}
+post("The LCM is = " + val2);
+}
+
+unit gcdfunc(unit val1, unit val2) {
+unit temp, ans;
+unit try1;
+try1 = val2%val1;
+inorder(val1>val2) {
+temp= val1;
+val1= val2;
+val2= temp;
+ans = temp;
+}
+inorder(try1 = = 0) {
+ans = val1;
+}
+order {
+ans = gcdfunc(try1, val1);
+}
+backup(ans);
+}
+
+unit LCM2(unit num1, unit num2) {
+unit gcd1, back;
+gcd1 = gcdfunc(num1,num2);
+back = (num1 * num2) / gcd1;
+backup(back);
+}
+
+miss tailor() {
+unit k, cnt2;
+post("\nHow Many Serieso of Number : ");
+capture(#k);
+inorder(k<=0) {
+post("\nPlease Enter a POSITIVE NUMBER!: ");
+capture(#k);
+}
+inquire(cnt2=1;cnt2<=k;cnt2++) {
+sum = sum + (1.00/ cnt2 );
+inorder(cnt2==1) {
+post(" 1 / " + cnt2 );
+}
+order {
+post(" 1 / " +  cnt2  + "+" );
+}
+}
+post("\nTHE SUM OF THE GIVEN SERIES IS " + sum );
+}
+
+miss multi() {
+unit x, y, temp1;
+inquire(x=1; x<=10; x++) {
+inquire(y=1; y<=10; y++) {
+temp1 = x*y;
+post("\t" + temp1);
+}
+post("\n\n");
+}
+}
+
+PrimaryMission() {
+unit choice;
+company ch;
+display();
+go {
+capture(#choice);
+campaign(choice) {
+operation 1: 
+fibo();
+abort();
+
+operation 2: 
+multi();
+abort();
+operation 3: 
+tailor();
+abort();
+
+operation 4: 
+LCD();
+abort();
+operation 5: 
+lcm();
+abort();
+action: 
+post("Error\n");
+abort();
+}
+
+inorder(choice = = 0) {
+post("Exit!\n");
+}
+
+order {
+
+go {
+post("\n<-- GO BACK TO MAIN MENU <-- [M] Main Menu: ");
+capture(#ch);
+inorder(ch = = "M") {
+choice = 1;
+}
+order {
+post("Error Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+display();
+}
+} phase(choice != 0);
+
+} deploy();

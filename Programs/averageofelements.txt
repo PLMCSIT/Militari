@@ -1,0 +1,52 @@
+unit a[100];
+
+PrimaryMission() {
+unit m,i,choice;
+unit sum= 0;
+unit avg= 0;
+
+go {
+commence;
+post("Enter the number of terms in the array: ");
+capture(#m);
+phase(m<0) {
+post("Enter positive number of  terms in the array: ");
+capture(#m);
+}
+a[m] = a[m];
+post("Enter the array elements: \n");
+inquire(i=0;i<m;i++) {
+post("element: ");
+capture(#a[i]);
+}
+inquire(i=0;i<m;i++) {
+sum = sum + a[i];
+}
+avg= sum/m;
+post("Average is :  " +avg + " ");
+
+go {
+company ch;
+post("\n\n\t\t\tYOU WANT MORE? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+i=0;
+m=0;
+avg=0;
+sum=0;
+
+
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();

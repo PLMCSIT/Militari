@@ -1,0 +1,76 @@
+PrimaryMission() {
+unit i, j, n,k,temp,temp2,temp3,temp4;
+unit choice=0;
+go {
+commence;
+post("Enter value of n : ");
+capture(#n);
+
+phase(n > 50) {
+post("Must not Exceeded to 50!\n");
+post("Enter value of n : ");
+capture(#n);
+}
+
+temp=n/2;
+post(" ");
+inquire(k=temp; k<=n; k++) {
+k=k+2;
+temp2=n-k;
+inquire(j=1; j<temp2; j++) {
+j=j+2;
+post(" ");
+}
+inquire(j=1; j<=k; j++) {
+post("*");
+}
+
+inquire(j=1; j<=temp2; j++) {
+post(" ");
+}
+inquire(j=1; j<=k; j++) {
+post("*");
+}
+post("\n");
+}
+
+inquire(i=n; i>=1; i--) {
+inquire(j=i; j<n; j++) {
+post(" ");
+}
+temp3=(i*2);
+post(" ");
+inquire(j=1; j<=temp3; j++) {
+post("*");
+}
+post("\n");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+i=0;
+j=0;
+n=0;
+k=0;
+temp=0;
+temp2=0;
+temp3=0;
+temp4=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

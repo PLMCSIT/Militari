@@ -1,0 +1,17 @@
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\LexiCom.exe.config
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\LexiCom.exe
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\LexiCom.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\Lexical Analyzer.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\grammatica-1.6.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\Lexical Analyzer.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\Syntax Analyzer.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Release\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\Compiler.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\LexiCom.LexiCom.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\LexiCom.Properties.Resources.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\Compiler.csproj.GenerateResource.Cache
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\LexiCom.exe
+C:\Militari_Backup\COMPILER\LexiCom\obj\Release\LexiCom.pdb

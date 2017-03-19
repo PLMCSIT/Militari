@@ -1,0 +1,54 @@
+PrimaryMission() {
+company finsentence=" ";
+unit length=0, i=0, leng=0,j;
+company sentence=" ";
+
+unit choice=0;
+go {
+commence;
+post("\n\t\t\tEnter a Word: ");
+capture(#sentence);
+capture(#leng);
+length = sentence.Extent;
+phase(leng > length) {
+post("\n\t\t\t*Enter Length: ");
+capture(#leng);
+}
+
+inquire(i = 0; i < leng; i++) {
+inorder((sentence[i] = = 'a') || (sentence[i] = = 'e')) || (sentence[i] = = 'i')) || (sentence[i] = = 'o')) || ((sentence[i] = = 'u') || ((sentence[i] = = 'A') || ((sentence[i] = = 'I') || (sentence[i] = = 'O')) || (sentence[i] = = 'U')) || ((sentence[i] = = 'E') {
+inquire(j=1;j<len;j++) {
+str[j] =str[j+1];
+}
+len--;
+}
+}
+}
+post("\n\t\t\t" + sentence);
+
+
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+leng=0;
+i=0;
+finsentence=" ";
+sentence= " ";
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

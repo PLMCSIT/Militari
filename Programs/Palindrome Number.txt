@@ -1,0 +1,45 @@
+PrimaryMission() {
+unit num, rem, sum = 0, temp;
+unit choice=0;
+go {
+commence;
+post("\n\t\t\tInput Number: ");
+capture(#num);
+temp=num;
+phase(num>0) {
+rem = num%10;
+num=num/10;
+sum=sum*10+rem;
+}
+post("\n\t\t\tThe Reverse number is: " + sum + "\n");
+inorder(temp = = sum) {
+post("\n\t\t\tThe Number " + temp + " is Palindrome\n\n");
+}
+order {
+post("\n\t\t\tThe Number " + temp + " is not a Palindrome\n\n");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+num=0;
+rem=0;
+sum=0;
+temp=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

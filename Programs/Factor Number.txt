@@ -1,0 +1,38 @@
+PrimaryMission() {
+unit n, a, var,choice;
+go {
+commence;
+post("\n\t\t\tEnter a number to be factored: ");
+capture(#n);
+phase(n<=0) {
+post("\n\t\t\tEnter a positive number or greater than ZERO!! ");
+capture(#n);
+}
+post("\n\t\t\tFactors of " + n + " are : ");
+inquire(a=1;a<=n;a++) {
+var = n%a;
+inorder(var = = 0) {
+post(" " + a + " ");
+}
+} 
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+n=0;
+var=0;
+choice = 1;
+a=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\tDAGHANG SALAMAT GYUD!!");
+} deploy();

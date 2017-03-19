@@ -1,0 +1,49 @@
+PrimaryMission() {
+digit width, length, height,temp,temp2;
+digit surfacearea, volume, space_diagonal;
+unit choice=0;
+go {
+commence;
+post("Enter value of width of the cuboids:\n");
+capture(#width);
+post("Enter value of length of the cuboids:\n");
+capture(#length);
+post("Enter value of height of the cuboids:\n");
+capture(#height);
+temp = width * length + length * height + height * width;
+surfacearea = 2 * temp;
+volume = width * length * height;
+temp2 = width * width + length * length + height * height;
+space_diagonal = sqrt(temp2);
+post("Surface area of cuboids is: " + surfacearea);
+post("\n Volume of cuboids is : " + volume);
+post("\n Space diagonal of cuboids is : " + space_diagonal);
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+width=0;
+length=0;
+height=0;
+temp=0;
+temp2=0;
+surfacearea=0;
+volume=0;
+space_diagonal=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

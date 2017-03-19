@@ -1,0 +1,54 @@
+unit arr1[100];
+
+PrimaryMission() {
+unit i, mx, mn, n;
+unit choice=0;
+go {
+commence;
+post("\n\nFind maximum and minimum element in an array :\n");
+post("--------------------------------------------------\n");
+post("Input the number of elements to be stored in the array :");
+capture(#n);
+post("Input" + n + "elements in the array :\n");
+inquire(i=0;i<n;i++) {
+post("element - " + i + ": ");
+capture(#arr1[i]);
+}
+mx = arr1[0];
+mn = arr1[0];
+
+inquire(i=1; i<n; i++) {
+inorder(arr1[i] > mx) {
+mx = arr1[i];
+}
+inorder(arr1[i] < mn) {
+mn = arr1[i];
+}
+}
+post("Maximum element is : " + mx + "\n");
+post("Minimum element is : " + mn + "\n\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+i=0;
+mx=0;
+mn=0;
+n=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

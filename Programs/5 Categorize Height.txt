@@ -1,0 +1,41 @@
+PrimaryMission() {
+digit height;
+unit choice=0;
+go {
+commence;
+post("Enter  the Height (in centimetres) \n");
+capture(#height);
+inorder(height < 150.0) {
+post("Dwarf \n");
+}
+otherorder((height >= 150.0) & (height <= 165.0)) {
+post(" Average Height \n");
+}
+otherorder((height >= 165.0) & (height <= 195.0)) {
+post("Taller \n");
+}
+order {
+post("Abnormal height \n");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+height=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

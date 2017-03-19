@@ -1,0 +1,47 @@
+company temp=" ";
+PrimaryMission() {
+company str = " ", reverse = " ";  
+unit choice=0,Length = 0;
+go {
+commence;
+post("\n\t\t\tEnter a Word: ");
+capture(#str);
+Length = str.Extent;
+Length=Length-1;
+phase(Length>=0) {  
+reverse = reverse + str[Length];  
+Length--;
+}  
+post("\n\t\t\tThe Reverse String of " + str + " is" + reverse);
+temp = " " + str;
+inorder(temp = = reverse) {
+post("\n\t\t\tThe String is Palindrome!");
+}
+order {
+post("\n\t\t\tThe String NOT is Palindrome!");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+str = " ";
+reverse = " ";
+temp = " ";
+Length=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

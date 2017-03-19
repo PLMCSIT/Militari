@@ -1,0 +1,5 @@
+C:\Militari_Backup\COMPILER\TokenLibrary\bin\Release\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\TokenLibrary\bin\Release\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\TokenLibrary\obj\Release\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\TokenLibrary\obj\Release\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\TokenLibrary\obj\Release\TokenLibrary.pdb

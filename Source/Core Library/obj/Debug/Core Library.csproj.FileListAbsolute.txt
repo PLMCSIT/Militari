@@ -1,0 +1,40 @@
+A:\LexiCom\COMPILER\Core Library\bin\Debug\Core Library.dll
+A:\LexiCom\COMPILER\Core Library\bin\Debug\Core Library.pdb
+A:\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+A:\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.dll
+A:\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.pdb
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\bin\Debug\Core Library.dll
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\bin\Debug\Core Library.pdb
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.dll
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.pdb
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Aethelbert\Desktop\COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Core Library\obj\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Core Library\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Core Library\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Core Library\obj\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Core Library\obj\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Core Library\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Core Library\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Core Library\obj\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Core Library\obj\Debug\Core Library.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Core Library\obj\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Core Library\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Core Library\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Core Library\obj\Debug\Core Library.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Core Library\obj\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Core Library\obj\Debug\Core Library.pdb

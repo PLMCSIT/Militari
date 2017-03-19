@@ -1,0 +1,36 @@
+PrimaryMission() {
+company inputChar;
+company sentence=" ";
+
+unit choice=0;
+go {
+commence;
+post("\n\t\t\tInput a character: ");
+capture(#inputChar);
+inorder((inputChar= = "1") || (inputChar= = "2") || (inputChar= = "3") || (inputChar= = "4") || (inputChar= = "5") || (inputChar= = "6") || (inputChar= = "7") || (inputChar= = "8") || (inputChar= = "9")) {
+post("\n\t\t\tThe character is a number.");
+} order {
+post("\n\t\t\tThe character is either an alphabet or special character.");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+inputChar=" ";
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tInput Error.");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOOD BYE SOLDIER.");
+} deploy();

@@ -1,0 +1,741 @@
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\grammatica-1.6.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\grammatica-1.6.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\grammatica-1.6.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\grammatica-1.6.dll
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Militari_Backup\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\grammatica-1.6.dll
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Militari_Backup\For Presentation\COMPILER\LexiCom\obj\Debug\Militari.MetroMilitari.resources
+E:\MILITARI COMPILER\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+E:\MILITARI COMPILER\COMPILER\LexiCom\obj\Debug\Militari.exe
+E:\MILITARI COMPILER\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Militari.MetroMilitari.resources
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Aethelbert\Desktop\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Militari.MetroMilitari.resources
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Daryl Caguia\Desktop\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-12-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-17-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-25-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Teph Amurao\Documents\GitHub\Militari\militari-compiler\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\LexiCom\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.exe
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Public\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Public\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Public\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Public\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Militari.exe
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Militari.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Militari.exe.config
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Militari.exe
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Militari.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Militari.exe
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Militari.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControl.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControlAPI.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Core Library.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Semantics Analyzer.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Syntax Analyzer.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\TokenLibrary.dll
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Core Library.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Semantics Analyzer.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Syntax Analyzer.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\TokenLibrary.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControl.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControl.xml
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControlAPI.pdb
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\ConsoleControlAPI.xml
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\LexiCom.Militari.resources
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Militari.Form1.resources
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Militari.Properties.Resources.resources
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\macz\Desktop\Militari Compiler\Source\LexiCom\obj\Debug\Compiler.csproj.GenerateResource.Cache

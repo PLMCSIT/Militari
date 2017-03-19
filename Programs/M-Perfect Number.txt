@@ -1,0 +1,44 @@
+PrimaryMission() {
+unit n, var,choice, a, sum= 0;
+go {
+commence;
+post("\n\t\t\tEnter your number for reference: ");
+capture(#n);
+phase(n<=0) {
+post("\n\t\t\tEnter a positive Integer or number greater than ZERO!! ");
+capture(#n);
+}
+inquire(a=1;a<n;a++) {
+var=n%a;
+inorder(var = = 0) {
+sum = sum+a;
+}
+}
+inorder(sum = = n) {
+post("\n\t\t\t" + a + " is a perfect number ");
+}
+order {
+post("\n\t\t\t" + a + " is not a perfect number ");
+}
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+n=0;
+var=0;
+choice = 1;
+a=0;
+sum=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\tTHANKYOU!!");
+} deploy();

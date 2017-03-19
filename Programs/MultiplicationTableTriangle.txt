@@ -1,0 +1,46 @@
+PrimaryMission() {
+unit i,j,rows,var;
+unit count=1;
+unit choice;
+go {
+commence;
+post("Enter the Multiplication table rows: \n");
+capture(#rows);
+phase(rows<0) {
+post("Please Enter a Positive number of ROWS!! :\n");
+capture(#rows);
+}
+inquire(i=0;i<rows;i++) {
+inquire(j=0;j<=i;j++) {
+var = i*j;
+post(" " + var + " ");
+}
+post("\n");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tYOU WANT MORE? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+i=0;
+j=0;
+rows=0;
+var=0;
+count=1;
+
+
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();

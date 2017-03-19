@@ -1,0 +1,57 @@
+PrimaryMission() {
+unit x,i,n,temp;
+unit temp1,temp2,temp3;
+unit choice;
+go {
+commence;
+post("Enter a number: ");
+capture(#n); 
+inquire(i=1;i<=n;i++) {
+temp =i;
+x=i;
+temp1=x%2;
+phase(temp1==0) {
+x = x/2; 
+}
+temp2=x%3;
+phase(temp2==0) {
+x = x/3;
+}
+temp3=x%5;
+phase(temp3= =0) {
+x = x/5;
+}
+post("Ugly numbers are :");      
+inorder(x = = 1) {
+post(temp + "\n");
+}
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+x=0;
+i=0;
+n=0;
+temp=0;
+temp1=0;
+temp2=0;
+temp3=0;
+unit choice;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

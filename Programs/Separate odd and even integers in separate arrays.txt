@@ -1,0 +1,64 @@
+unit arr1[10];
+unit arr2[10];
+unit arr3[10];
+
+PrimaryMission() {
+unit i,j=0,k=0,n,temp;
+unit choice=0;
+go {
+commence;
+post("\n\nSeparate odd and even integers in separate arrays:\n");
+post("------------------------------------------------------\n");
+post("Input the number of elements to be stored in the array :");
+capture(#n);
+post("Input" + n + "elements in the array :\n");
+inquire(i=0;i<n;i++) {
+post("element - " + i + ": ");
+capture(#arr1[i]);
+}
+inquire(i=0;i<n;i++) {
+temp = arr1[i] % 2;
+inorder(temp = = 0) {
+arr2[j] = arr1[i];
+j++;
+}
+order {
+arr3[k] = arr1[i];
+k++;
+}
+}
+post("\nThe Even elements are : \n");
+inquire(i=0;i<j;i++) {
+post("[" + arr2[i] + "]");
+}
+post("\nThe Odd elements are :\n");
+inquire(i=0;i<k;i++) {
+post("[" + arr3[i] + "]");
+}
+post("\n\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+i=0;
+j=0;
+k=0;
+n=0;
+temp=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

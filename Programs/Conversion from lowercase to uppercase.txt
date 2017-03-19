@@ -1,0 +1,109 @@
+PrimaryMission() {
+company inputChar;
+company sentence=" ";
+
+unit choice=0;
+go {
+commence;
+post("Input a letter: ");
+capture(#inputChar);
+inorder((inputChar= = "a") || (inputChar= = "A")) {
+post("Uppercase Letter: A");
+}
+otherorder((inputChar= = "b") || (inputChar= = "B" )) {
+post("Uppercase Letter: B");
+}
+otherorder((inputChar= = "c") || (inputChar= = "C" )) {
+post("Uppercase Letter: C");
+}
+otherorder((inputChar= = "d") || (inputChar= = "D" )) {
+post("Uppercase Letter: D");
+}
+otherorder((inputChar= = "e") || (inputChar= = "E" )) {
+post("Uppercase Letter: E");
+}
+otherorder((inputChar= = "f") || (inputChar= = "F" )) {
+post("Uppercase Letter: F");
+}
+otherorder((inputChar= = "g") || (inputChar= = "G" )) {
+post("Uppercase Letter: G");
+}
+otherorder((inputChar= = "h") || (inputChar= = "H" )) {
+post("Uppercase Letter: H");
+}
+otherorder((inputChar= = "i") || (inputChar= = "I" )) {
+post("Uppercase Letter: I");
+}
+otherorder((inputChar= = "j") || (inputChar= = "J" )) {
+post("Uppercase Letter: J");
+}
+otherorder((inputChar= = "k") || (inputChar= = "K" )) {
+post("Uppercase Letter: K");
+}
+otherorder((inputChar= = "l") || (inputChar= = "L" )) {
+post("Uppercase Letter: L");
+}
+otherorder((inputChar= = "m") || (inputChar= = "M" )) {
+post("Uppercase Letter: M");
+}
+otherorder((inputChar= = "n") || (inputChar= = "O" )) {
+post("Uppercase Letter: O");
+}
+otherorder((inputChar= = "p") || (inputChar= = "P" )) {
+post("Uppercase Letter: P");
+}
+otherorder((inputChar= = "q") || (inputChar= = "Q" )) {
+post("Uppercase Letter: Q");
+}
+otherorder((inputChar= = "r") || (inputChar= = "R" )) {
+post("Uppercase Letter: R");
+}
+otherorder((inputChar= = "s") || (inputChar= = "S" )) {
+post("Uppercase Letter: S");
+}
+otherorder((inputChar= = "t") || (inputChar= = "T" )) {
+post("Uppercase Letter: T");
+}
+otherorder((inputChar= = "u") || (inputChar= = "U" )) {
+post("Uppercase Letter: U");
+}
+otherorder((inputChar= = "v") || (inputChar= = "V" )) {
+post("Uppercase Letter: V");
+}
+otherorder((inputChar= = "w") || (inputChar= = "W" )) {
+post("Uppercase Letter: W");
+}
+otherorder((inputChar= = "x") || (inputChar= = "X" )) {
+post("Uppercase Letter: X");
+}
+otherorder((inputChar= = "y") || (inputChar= = "Y" )) {
+post("Uppercase Letter: Y");
+}
+otherorder((inputChar= = "z") || (inputChar= = "Z" )) {
+post("Uppercase Letter: Z");
+}
+order {
+post("\nThe character is not a single letter.");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+inputChar=" ";
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tInput Error.");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tProgram Terminating...");
+} deploy();

@@ -1,0 +1,126 @@
+digit sum=0;
+miss display() {
+post("\n\t\t\t-------------------------------------------------------------------");
+post("\n\t\t\t[1] Triangle, [2] Circle, [3] Square, [4] Rectangle, [0] EXIT\n");
+post("\t\t\tEnter your Choice: ");
+}
+
+PrimaryMission() {
+unit choice;
+company ch;
+unit ch2;
+go {
+display();
+capture(#choice);
+campaign(choice) {
+operation 1: 
+commence;
+digit b, h;
+post("\n\t\t\t\t\t<< Triangle >>: ");
+post("\n\t\t\tEnter Height: ");
+capture(#h);
+phase(h<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Height: ");
+capture(#h);
+}
+post("\n\t\t\tEnter Base: ");
+capture(#b);
+phase(b<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Base: ");
+capture(#b);
+}
+post("\n\t\t\tA=h*b/2\n");
+post("\n\t\t\tEquivalent: h=Height, b=Base\n");
+sum=h*(b/2);
+post("\n\t\t\tThe Area of the Triangle with the given Height of " + h + " and Base of  " + b + " is " + sum + "\n");
+abort();
+
+operation 2: 
+commence;
+digit r, pi=3.1416;
+post("\n\t\t\t\t\t<< Circle >>: ");
+post("\n\t\t\tEnter Radius: ");
+capture(#r);
+phase(r<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Radius: ");
+capture(#r);
+}
+post("\n\t\t\tA=Pi*r^2\n");
+post("\n\t\t\tEquivalent: pi=3.14.16, r=radius\n");
+sum=pi*(r*r);
+post("\n\t\t\tThe Area of the Circle with the given Radius of " +r + " is " + sum + "\n");
+abort();
+
+operation 3: 
+commence;
+digit s;
+post("\n\t\t\t\t\t<< Square >>: ");
+post("\n\t\t\tEnter Side: ");
+capture(#s);
+phase(s<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Side: ");
+capture(#s);
+}
+post("\n\t\t\tA=s^2\n");
+post("\n\t\t\tEquivalent: s=side\n");
+sum=s*s;
+post("\n\t\t\tThe Area of the Square with the given Side of " +s + " is " + sum + "\n");
+abort();
+
+operation 4: 
+commence;
+digit w, l;
+post("\n\t\t\t\t\t<< Rectangle >>: ");
+post("\n\t\t\tEnter Length: ");
+capture(#l);
+phase(l<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Length: ");
+capture(#l);
+}
+post("\n\t\t\tEnter Width: ");
+capture(#w);
+phase(w<=0) {
+post("\n\t\t\t[Must be Greater than 0] Enter Width: ");
+capture(#w);
+}
+post("\n\t\t\tA=w*l\n");
+post("\n\t\t\tEquivalent: w=Width, l=Length\n");
+sum=w*l;
+post("\n\t\t\tThe Area of the Rectangle with the given Length of " + l + " and Width of " + w + " is " + sum + "\n");
+abort();
+
+operation 0: 
+abort();
+
+
+action: 
+post("Error");
+abort();
+}
+
+inorder(choice = = 0) {
+commence;
+post("\n\t\t\tGOODBYE!");
+}
+
+order {
+
+go {
+post("\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+
+}
+} phase(choice != 0);
+
+} deploy();

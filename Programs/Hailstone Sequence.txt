@@ -1,0 +1,87 @@
+unit getNextValue(unit aNum) {
+unit i;
+i = aNum;
+unit temp;
+temp = i%2;
+inorder(temp = = 0) {
+i = i/2;
+}
+order { 
+i = 3 * i + 1;
+}
+backup(i);
+}
+
+miss getHailstone(unit aNum) {
+unit hlSe;
+hlSe = aNum;
+unit temp;
+inorder(hlSe = = 1) {
+post(hlSe + " ");
+}
+order {
+post(" " + hlSe + " ");
+temp = getNextValue(hlSe);
+getHailstone(temp);
+}
+}
+
+unit countLength(unit aNum) {
+unit hlSe;
+hlSe = aNum;
+unit cnt = 0;
+unit temp;
+inorder(hlSe = = 1) {
+cnt = 1;
+}
+order {
+temp = getNextValue(hlSe);
+cnt = cnt + countLength(temp);
+}
+backup(cnt);
+}
+
+PrimaryMission() {
+unit aNum;
+unit temp;
+unit choice=0;
+go {
+commence;
+post("\n\n Recursion : Hailstone Sequence of a given number upto 1 : \n");
+post("-------------------------------------------------------------- \n");  
+post(" Input any number (positive) to start for Hailstone Sequence : ");
+capture(#aNum);
+
+phase(aNum <= 0) {
+post(" Input any number (*positive) to start for Hailstone Sequence : ");
+capture(#aNum);
+}
+
+post("\n The hailstone sequence starting at " + aNum + " is : \n");
+getHailstone(aNum);
+post("\n\n");
+temp = countLength(aNum);
+post(" The length of the sequence is " + temp + "\n\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+aNum=0;
+temp=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

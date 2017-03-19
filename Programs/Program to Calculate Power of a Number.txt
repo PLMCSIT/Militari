@@ -1,0 +1,39 @@
+PrimaryMission() {
+unit exponent;
+digit base1, result = 1.0;
+unit choice;
+go {
+commence;
+post("Enter base and exponent respectively:  ");
+capture(#base1);
+capture(#exponent);
+post(base1 + " ^ " + exponent + " = ");
+phase(exponent != 0) {
+result = result * base1;
+exponent--;
+}
+post(result);
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+exponent=0;
+base1=0;
+result = 1.0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

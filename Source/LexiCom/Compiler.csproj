@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E161760E-85E5-4042-A9E2-F529F3BB589F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Militari</RootNamespace>
+    <AssemblyName>Militari</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\bin\updates\Bunifu_UI_1.5\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="ConsoleControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=7edd23586f5e297f, processorArchitecture=MSIL">
+      <HintPath>..\packages\ConsoleControl.1.1.0.0\lib\net40\ConsoleControl.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ConsoleControlAPI, Version=1.1.0.0, Culture=neutral, PublicKeyToken=7c86b8a36b9c33e2, processorArchitecture=MSIL">
+      <HintPath>..\packages\ConsoleControl.1.1.0.0\lib\net40\ConsoleControlAPI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Base, Version=14.2451.0.26, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compiler.Designer.cs">
+      <DependentUpon>Compiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DllImportAttribute.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntelliSenseTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RichTextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="User32.cs" />
+    <EmbeddedResource Include="Compiler.resx">
+      <DependentUpon>Compiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RichTextBoxEx.resx">
+      <DependentUpon>RichTextBoxEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core Library\Core Library.csproj">
+      <Project>{100BF7E7-B634-4E6B-948E-22D0566FB2AF}</Project>
+      <Name>Core Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lexical Analyzer\Lexical Analyzer.csproj">
+      <Project>{70ddd6d0-45b1-4b63-9a9d-327d744e7316}</Project>
+      <Name>Lexical Analyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Semantics Analyzer\Semantics Analyzer.csproj">
+      <Project>{5baad1b7-1a1b-41cd-aa2a-90d497685963}</Project>
+      <Name>Semantics Analyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Syntax Analyzer\Syntax Analyzer.csproj">
+      <Project>{5c0dcf81-dc7e-4466-b6b9-56f7e0c289c8}</Project>
+      <Name>Syntax Analyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TokenLibrary\TokenLibrary.csproj">
+      <Project>{1ee8654d-b84d-4468-9660-1fc1cc573fa3}</Project>
+      <Name>TokenLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Code Structures.txt" />
+    <None Include="Resources\317e850270dfd1fa7594ea6a520c0b1c.jpg" />
+    <None Include="Resources\bg_militari.jpg" />
+    <None Include="Resources\Syntax1.png" />
+    <None Include="Resources\Lexical1.png" />
+    <None Include="Resources\Lexical.png" />
+    <None Include="Resources\start.png" />
+    <None Include="Resources\start1.png" />
+    <None Include="Resources\start2.png" />
+    <None Include="Resources\start3.png" />
+    <None Include="Resources\start4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

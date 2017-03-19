@@ -1,0 +1,48 @@
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Militari_Backup\For Presentation\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Militari_Backup\For Presentation\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Militari_Backup\For Presentation\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Militari_Backup\For Presentation\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Aethelbert\Desktop\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Aethelbert\Desktop\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Daryl Caguia\Desktop\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\TokenLibrary\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\TokenLibrary\obj\Debug\TokenLibrary.pdb

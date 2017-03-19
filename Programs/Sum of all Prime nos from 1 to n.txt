@@ -1,0 +1,56 @@
+PrimaryMission() {
+unit  input, a, var, cnt = 0,b=0,prime=0,temp=0;
+unit choice=0;
+go {
+commence;
+post("\n\t\t\tInput a number (Nth) : ");
+capture(#input);
+phase(input<=0) {
+post("\n\t\t\tInput a *POSITIVE number (Nth) : ");
+capture(#input);
+}
+
+inquire(b=1; b<=input; b++) {
+inquire(a=1;a<=b;a++) {
+var= b%a;
+inorder(var = = 0) {
+cnt++;
+}
+}
+inorder(cnt = = 2) {
+prime=prime+b;
+cnt=0;
+}
+order {
+cnt=0;
+}
+
+}
+post("\n\t\t\tThe Sum of all Prime Number is: " + prime + "\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+input=0;
+var=0;
+choice = 1;
+cnt=0;
+b=0;
+prime=0;
+temp=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

@@ -1,0 +1,7 @@
+C:\Militari_Backup\COMPILER\Lexical Analyzer\bin\Release\Lexical Analyzer.dll
+C:\Militari_Backup\COMPILER\Lexical Analyzer\bin\Release\Lexical Analyzer.pdb
+C:\Militari_Backup\COMPILER\Lexical Analyzer\bin\Release\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\Lexical Analyzer\bin\Release\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\Lexical Analyzer\obj\Release\Lexical Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\Lexical Analyzer\obj\Release\Lexical Analyzer.dll
+C:\Militari_Backup\COMPILER\Lexical Analyzer\obj\Release\Lexical Analyzer.pdb

@@ -1,0 +1,94 @@
+digit sum=0,num1=0,num2=0;
+miss display() {
+post("\n\t\t\t-------------------------------------------------------------------");
+post("\n\t\t\t[1] SUM, [2] DIFFERENCE, [3] PRODUCT, [4] QUOTIENT, [0] EXIT\n");
+post("\t\t\tEnter your Choice: ");
+}
+
+PrimaryMission() {
+unit choice;
+company ch;
+unit ch2;
+go {
+display();
+capture(#choice);
+campaign(choice) {
+operation 1: 
+commence;
+post("\n\t\t\t\t\t<< Addition >>: ");
+post("\n\t\t\tEnter First Number: ");
+capture(#num1);
+post("\n\t\t\tEnter Second Number: ");
+capture(#num2);
+sum=num1+num2;
+post("\n\t\t\tThe Sum of " + num1 + " and " + num2 + " is " + sum + "\n");
+abort();
+
+operation 2: 
+commence;
+post("\n\t\t\t\t\t<< Subtraction >>: ");
+post("\n\t\t\tEnter First Number: ");
+capture(#num1);
+post("\n\t\t\tEnter Second Number: ");
+capture(#num2);
+sum=num1-num2;
+post("\n\t\t\tThe Difference of " + num1 + " and " + num2 + " is " + sum + "\n");
+abort();
+
+operation 3: 
+commence;
+post("\n\t\t\t\t\t<< Multiplication >>: ");
+post("\n\t\t\tEnter First Number: ");
+capture(#num1);
+post("\n\t\t\tEnter Second Number: ");
+capture(#num2);
+sum=num1*num2;
+post("\n\t\t\tThe Product of " + num1 + " and " + num2 + " is " + sum + "\n");
+abort();
+
+operation 4: 
+commence;
+post("\n\t\t\t\t\t<< Division >>: ");
+post("\n\t\t\tEnter First Number: ");
+capture(#num1);
+post("\n\t\t\tEnter Second Number: ");
+capture(#num2);
+sum=num1/num2;
+post("\n\t\t\tThe Quotient of " + num1 + " and " + num2 + " is " + sum + "\n");
+abort();
+
+operation 0: 
+abort();
+
+
+action: 
+post("Error");
+abort();
+}
+
+inorder(choice = = 0) {
+commence;
+post("\n\t\t\tGOODBYE!");
+}
+
+order {
+
+go {
+post("\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+
+}
+} phase(choice != 0);
+
+} deploy();

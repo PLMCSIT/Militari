@@ -1,0 +1,47 @@
+PrimaryMission() {
+unit  input, a, var, cnt = 0;
+unit choice=0;
+go {
+commence;
+post("\n\t\tInput a number to be checked if it is PRIME : ");
+capture(#input);
+phase(input<=0) {
+post("\n\t\tInput a *POSITIVE number to be checked if it is PRIME : ");
+capture(#input);
+}
+inquire(a=1;a<=input;a++) {
+var= input%a;
+inorder(var = = 0) {
+cnt++;
+}
+}
+inorder(cnt = = 2) {
+post("\n\t\t\tNUMBER " + input + " IS A PRIME NUMBER: ");
+}
+order {
+post("\n\t\t\tNUMBER " + input + " IS NOT A PRIME NUMBER: ");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+input=0;
+var=0;
+choice = 1;
+cnt=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

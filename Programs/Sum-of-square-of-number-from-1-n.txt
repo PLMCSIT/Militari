@@ -1,0 +1,44 @@
+PrimaryMission() {
+unit a, no, var,choice, square = 0, sum=0;
+go {
+commence;
+post("\n\t\t\t Enter value of N: " );
+capture(#no);
+inorder(no>0) {
+inquire(a=1;a<=no;a++) {
+square=a*a;
+sum=sum+square;
+}
+post("\n\t\t\tThe total sum of all squares from numbers 1 to " + no +  " :  " + sum + " \n" );
+}
+order {
+inquire(a=1;a>=no;a--) {
+square=a*a;
+sum=sum+square;
+}
+post("\n\t\t\tThe total sum of all squares from numbers 1 to " + no +  " :  " + sum + " \n" );
+
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+no=0;
+var=0;
+choice = 1;
+sum=0;
+square=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\tPAALAM HANGGANG SA MULING PAGIINPUT!!");
+} deploy();

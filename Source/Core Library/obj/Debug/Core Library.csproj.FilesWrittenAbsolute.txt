@@ -1,0 +1,7 @@
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/bin/Debug/Core Library.dll.mdb
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/bin/Debug/Core Library.pdb
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/bin/Debug/Core Library.dll
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/obj/Debug/Core Library.dll
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/obj/Debug/Core Library.dll.mdb
+/media/edilsalvador/Aethelbert/GitHub Repositories/LexiCom/COMPILER/Core Library/obj/Debug/Core Library.pdb

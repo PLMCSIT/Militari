@@ -1,0 +1,115 @@
+digit first[10][10];
+digit second[10][10];
+digit sum[10][10];
+digit diff[10][10];
+digit prod[10][10];
+digit quo[10][10];
+
+PrimaryMission() {
+unit choice;
+unit r, c, i, j, s1, s2;
+go {
+commence;
+post("Enter the number rows of the matrix: ");
+capture(#r);
+phase(r<0) {
+post("Enter a positive number of rows please! :" );
+capture(#r);
+}
+post("Enter the number of columns: ");
+capture(#c);
+phase(c<0) {
+post("Enter a positive number of columns please! ");
+capture(#c);
+}
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+s1= i + 1;
+s2 = j +1;
+post("Enter element A " + s1 +  "  " + s2 +  " : ");  
+capture(#first[i][j]);
+}
+}
+post("Enter the elements of 2nd matrix: ");
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+s1= i + 1;
+s2 = j +1;
+post("Enter element A " + s1 +  "  " + s2 +  " : ");
+capture(#second[i][j]);
+}
+}
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+sum[i][j] = first[i][j] + second[i][j];
+}
+}
+post("\n\t\t\tSum of entered Matrices are : \n");
+inquire(i=0;i<r;i++) {
+post(" \n ");
+inquire(j=0;j<c;j++) {
+post("\t\t\t" + sum[i][j] + " " );
+}
+}
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+diff[i][j] = first[i][j] - second[i][j];
+}
+}
+post("\n\t\t\tDifference of entered Matrices are : \n ");
+inquire(i=0;i<r;i++) {
+post(" \n ");
+inquire(j=0;j<c;j++) {
+post("\t\t\t " + diff[i][j] + "  " );
+}
+}
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+quo[i][j] = first[i][j] / second[i][j];
+}
+}
+post("\n\t\t\tQuotient of entered Matrices are : \n ");
+inquire(i=0;i<r;i++) {
+post(" \n ");
+inquire(j=0;j<c;j++) {
+post("\t\t\t " + quo[i][j] + " " );
+}
+}
+inquire(i=0;i<r;i++) {
+inquire(j=0;j<c;j++) {
+prod[i][j] = first[i][j] * second[i][j];
+}
+}
+post("\n\t\t\tProduct of entered Matrices are : \n");
+inquire(i=0;i<r;i++) {
+post(" \n ");
+inquire(j=0;j<c;j++) {
+post("\t\t\t " + prod[i][j] + "  " );
+}
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+r=0;
+c=0;
+i=0;
+j=0;
+s1=0;
+s2=0;
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();

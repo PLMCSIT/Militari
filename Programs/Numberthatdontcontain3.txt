@@ -1,0 +1,80 @@
+unit count(unit n) {
+unit m,msd,a,t,b,c,e,f,g,d;
+unit po=1;
+inorder(n<3) {
+backup(n);
+} 
+inorder((n>=3) & (n<10)) {
+n= n-1;
+backup(n);
+}
+m= n/po;
+phase(m>9) {
+po = po * 10;
+m= n/po;
+}
+
+msd = n/po;
+inorder(msd !=3) {
+a = count(msd);
+t= po-1;
+b=count(t);
+e= n%po;
+f=count(e);
+c= a * b + a+ f;
+backup(c);
+}
+order {
+d = msd* po -1;
+g = count(d);
+backup(g);
+}
+}
+
+PrimaryMission() {
+unit m,msd,a,t,b,c,e,f,g,d;
+unit ans,val,choice;
+unit po=1;
+go {
+commence;
+post("Enter value: ");
+capture(#val);
+phase(val<0) {
+post("Enter positive value: ");
+capture(#val);
+}
+ans = count(val);
+post(" " +ans+ " ");
+
+go {
+company ch;
+post("\n\n\t\t\tYOU WANT MORE? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+m=0;
+msd=0;
+ans=0;
+val=0;
+a=0;
+b=0;
+c=0;
+d=0;
+g=0;
+f=0;
+t=0;
+po=0;
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();
+

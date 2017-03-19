@@ -1,0 +1,58 @@
+unit arr1[50];
+PrimaryMission() {
+unit i,pos,n;
+unit temp;
+unit choice=0;
+go {
+commence;
+post("Delete an element at desired position from an array :\n");
+post("---------------------------------------------------------\n");  
+post("Input the size of array : ");
+capture(#n);
+post("Input " + n + " elements in the array in ascending order:\n");
+inquire(i=0;i<n;i++) {
+post("element - " + i + ": ");
+capture(#arr1[i]);
+}
+post("\nInput the position where to delete: ");
+capture(#pos);
+i=0;
+temp=pos-1;
+phase(i !=temp) {
+i++;
+}
+phase(i<n) {
+arr1[i] = arr1[i+1];
+i++;
+}
+n--;
+post("\nThe new list is : "); 
+inquire(i=0;i<n;i++) {
+post(" " + arr1[i]);
+}  
+post("\n\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+i=0;
+pos=0;
+n=0;
+temp=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

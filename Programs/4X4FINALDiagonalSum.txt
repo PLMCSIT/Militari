@@ -1,0 +1,60 @@
+unit num[4][4];
+unit i=0;
+unit j=0;
+unit sum=0;
+
+PrimaryMission() {
+unit choice;
+go {
+commence;
+post("Enter the Elements of the 4X4 Matrix: \n");
+inquire(i=0;i<4;i++) {
+inquire(j=0;j<4;j++) {
+post("Element " + i + " , " + j + " : ");
+capture(#num[i][j]);
+}
+}
+post("The Matrix is: \n ");
+inquire(i=0;i<4;i++) {
+inquire(j=0;j<4;j++) {
+post("\t\t" + num[i][j] + " ");
+}
+post("\n");
+}
+post("\n The Sum of diagonals of the matrix is:\n ");
+inorder(i = = j) {
+inquire(i=0;i<4;i++) {
+inquire(j=0;j<4;j++) {
+inorder(i = = j) {
+sum = sum + num[i][j];
+}
+}
+}
+post(sum);
+}
+order {
+post("The Sum is not possible imbalance Matrix : \n ");
+}
+
+go {
+company ch;
+post("\n\n\t\t\tYOU WANT MORE? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+i=0;
+j=0;
+sum=0;
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();

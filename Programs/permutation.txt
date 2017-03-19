@@ -1,0 +1,17 @@
+unit fact(unit c) {
+unit f=1;
+phase(c>0) {
+f= f*c;
+c--;
+} backup(f); 
+} 
+PrimaryMission() {
+unit p, r, n,v;
+post("Enter permutation number for the patern P(n,r) \n");
+post("Enter the value of n: ");
+capture(#n);
+post("Enter the value of r: ");
+capture(#r);
+p= fact(n) / fact(n-r);
+post("The Factorial of P(" +n+ "," +r+ "= )" +p+ " ");
+} deploy();

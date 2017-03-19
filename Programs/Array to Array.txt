@@ -1,0 +1,51 @@
+unit arr1[100];
+unit arr2[100];
+PrimaryMission() {
+unit i, n;
+unit choice=0;
+go {
+commence;
+post("Copy the elements one array into another array\n");
+post("----------------------------------------------------\n");  
+post("Input the number of elements to be stored in the array : ");
+capture(#n);
+post("Input " + n + " elements in the array : \n");
+inquire(i=0;i<n;i++) {
+post("element - " + i + " : ");
+capture(#arr1[i]);
+}
+inquire(i=0; i<n; i++) {
+arr2[i] = arr1[i];
+}
+post("\nThe elements stored in the first array are :\n");
+inquire(i=0; i<n; i++) {
+post(" " + arr1[i]);
+}
+post("\n\nThe elements copied into the second array are :\n");
+inquire(i=0; i<n; i++) {
+post(" " + arr2[i]);
+}
+post("\n\n");
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+n=0;
+i=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

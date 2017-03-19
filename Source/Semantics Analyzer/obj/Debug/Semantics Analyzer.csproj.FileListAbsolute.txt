@@ -1,0 +1,143 @@
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Semantics Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Semantics Analyzer\obj\Debug\Semantics Analyzer.pdb

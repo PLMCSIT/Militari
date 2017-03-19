@@ -1,0 +1,172 @@
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\grammatica-1.6.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Project_Militari\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\grammatica-1.6.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\bin\Debug\grammatica-1.6.dll
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Militari_Backup\For Presentation\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Aethelbert\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Daryl Caguia\Desktop\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Ronelito\Documents\Revised the Final\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-12-13-16\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-1-30-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-07-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+D:\Compiler\Militari-Changelogs\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\Public\analyzer-2-09-17 Beta\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-2-18-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-1-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-2-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\Syntax Analyzer.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\Core Library.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\bin\Debug\TokenLibrary.pdb
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.dll
+C:\Users\canaria10\Desktop\Compiler_Shared\Compiler-3-9-17\COMPILER\Syntax Analyzer\obj\Debug\Syntax Analyzer.pdb

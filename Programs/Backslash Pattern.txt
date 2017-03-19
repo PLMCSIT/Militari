@@ -1,0 +1,43 @@
+PrimaryMission() {
+unit i,j,k,num;
+unit choice=0;
+go {
+commence;
+post("Enter the Number : ");
+capture(#num);
+inquire(i=1;i<=num;i++) {    
+inquire(j=1;j<=num;j++) {        
+inorder(i==j) {     
+post("* ");
+}
+order {         
+post("  ");
+}
+}        
+post("\n");
+}    
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+i=0;
+j=0;
+k=0;
+num=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

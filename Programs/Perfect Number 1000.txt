@@ -1,0 +1,43 @@
+PrimaryMission() {
+unit x, var,choice, a, sum= 0;
+go {
+commence;
+
+inquire(x=1; x<=1000; x++) {
+inquire(a=1;a<x;a++) {
+var=x%a;
+inorder(var = = 0) {
+sum = sum+a;
+}
+}
+inorder(sum = = x) {
+post("\n\t\t\t" + a + " is a perfect number ");
+sum=0;
+}
+order {
+sum=0;
+}
+}
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+x=0;
+var=0;
+choice = 1;
+a=0;
+sum=0;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\tTHANKYOU!!");
+} deploy();

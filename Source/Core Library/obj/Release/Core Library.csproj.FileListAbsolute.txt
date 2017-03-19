@@ -1,0 +1,5 @@
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\bin\Release\Core Library.dll
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\bin\Release\Core Library.pdb
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Release\Core Library.csprojResolveAssemblyReference.cache
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Release\Core Library.dll
+A:\GitHub Repositories\LexiCom\COMPILER\Core Library\obj\Release\Core Library.pdb

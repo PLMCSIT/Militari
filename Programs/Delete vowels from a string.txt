@@ -1,0 +1,44 @@
+PrimaryMission() {
+company str = " ";
+company str2 = " ";
+unit len, i, j;
+unit choice;
+go {
+commence;
+post("Enter a string : ");
+capture(#str);
+len=str.Extent;
+inquire(i=0; i<len; i++) {
+inorder((str[i] = = 'a') || (str[i] = = 'e') || (str[i] = = 'i') || (str[i] = = 'o') || (str[i] = = 'u') || (str[i] = = 'A') || (str[i] = = 'E') || (str[i] = = 'I') || (str[i] = = 'O') || (str[i] = = 'U')) {
+}
+order {
+str2 = str2 + str[i];
+}
+}
+post("After deleting the vowels, the string will be : " + str2);
+
+go {
+company ch;
+post("\n\n\t\t\tTRY AGAIN? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+str = " ";
+str2 = " ";
+len=0;
+i=0;
+j=0;
+choice = 1;
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+
+} phase(choice = = 3);
+
+} phase(choice != 0);
+post("\n\t\t\tGOODBYE!!");
+} deploy();

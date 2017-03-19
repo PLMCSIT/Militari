@@ -1,0 +1,15 @@
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\bin\Debug\LexiCom.exe
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\bin\Debug\LexiCom.pdb
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.dll
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.csprojResolveAssemblyReference.cache
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.LexiCom.resources
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.Properties.Resources.resources
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\Lexicom.WinForms.RichTextBoxEx.resources
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.csproj.GenerateResource.Cache
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Teph Amurao\Desktop\LexiCom\COMPILER\LexiCom\obj\Debug\LexiCom.pdb
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\bin\Debug\LexiCom.exe.config
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.exe
+C:\Users\Teph Amurao\Desktop\Militari\COMPILER\LexiCom\obj\Debug\LexiCom.pdb

@@ -1,0 +1,50 @@
+unit x,i,n;
+digit y,w;
+PrimaryMission() {
+digit sumy=0;
+digit sumw=0;
+unit choice;
+
+go {
+commence;
+post("Enter an integer to find the successor and predecessor: ");
+capture(#x);
+post("Enter on how many Successor and Predecessor you want: ");
+capture(#n);
+inorder((x>0) || (x<0)) {
+post("Your Predeccessors are: \n");
+inquire(i=1;i<=n;i++) {
+w = x-i;
+post(w + ", " );
+}
+post("\nYour Successors are: \n");
+inquire(i=1;i<=n;i++) {
+y = x+i;
+post(y + ", " );
+}
+}
+
+go {
+company ch;
+post("\n\n\t\t\tYOU WANT MORE? [Y] Yes or [N] No: ");
+capture(#ch);
+inorder((ch = = "Y") || (ch = = "y")) {
+choice = 1;
+n=0;
+x=0;
+i=0;
+w=0;
+y=0;
+
+}
+otherorder((ch = = "N") || (ch = = "n")) {
+choice = 0;
+}
+order {
+post("\n\t\t\tError Input!");
+choice = 3;
+}
+} phase(choice = = 3);
+} phase(choice != 0);
+post("\n\t\t\t Maraming Salamat Po !!");
+} deploy();
